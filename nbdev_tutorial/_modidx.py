@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://jinoh0731.github.io',
                 'git_url': 'https://github.com/jinoh0731/nbdev_tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': { 'nbdev_tutorial.core': { 'nbdev_tutorial.core.add': ('core.html#add', 'nbdev_tutorial/core.py'),
+                                     'nbdev_tutorial.core.subtract': ('basic.html#subtract', 'nbdev_tutorial/core.py')}}}

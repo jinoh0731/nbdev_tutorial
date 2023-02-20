@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "This is a markdown cell.\n\n1+1\n\n2\n\n\n\n2+2\n\n4\n\n\n\nsource\n\nadd\n\n add (x, y)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_tutorial",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_tutorial",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "basic.html",
+    "href": "basic.html",
+    "title": "basic",
+    "section": "",
+    "text": "from nbdev_tutorial.core import *\n\n\n#you can call the function from 00_core file\nadd(11,5)\n\n16\n\n\n\nsource\n\nsubtract\n\n subtract (x, y)\n\ntest it out!\n\nx = 50\ny = 10\nsubtract(x,y)\n\n40"
+  }
+]
